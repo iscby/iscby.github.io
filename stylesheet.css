@@ -2,6 +2,9 @@
                 font-size: 60px;
                 font-weight: 200;
                 text-align: center;
-                
-                   
-               }
+                 }
+
+div.con{
+    text-align: center;
+    margin-top: 200px;
+}
